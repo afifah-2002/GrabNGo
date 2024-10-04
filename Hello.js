@@ -14,7 +14,7 @@ const Hello = () => {
             <li><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="orange" class="bi bi-justify-right" viewBox="0 0 16 18">
   <path fill-rule="evenodd" d="M6 12.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-4-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"/>
 </svg></li>&nbsp;&nbsp;
-            <li> <h5 className="text-light">AUTONOMOUS ROVER &nbsp;&nbsp;&nbsp;</h5></li>
+            <li> <h5 className="text-light">GRAB N' GO &nbsp;&nbsp;&nbsp;</h5></li>
           </ul>
         </div>
       </div>
@@ -42,7 +42,6 @@ const Hello = () => {
   </div>
 </div>
 <div className='overlay'>
-<div className="centered"><br /><font face="Times New Roman" size={5} color="white">This is a Web based Application that gives us  the access to control the <br/>Autonomous Land Rover . Through this web application, Rover can Deliver <br/> the package to the given particular Location. <br/><br/>This Application helps the user in providing the different features like Face <br/> Recognition , Coordinates of different Locations to deliver the packages , Obstacles detection and many more.</font></div>
 </div>
 </div>
   )

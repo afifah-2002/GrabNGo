@@ -19,7 +19,7 @@ const HomePage = (presentUser) => {
                         <div className="nav-item float-start">
                             <div className="collapse navbar-collapse">
                                 <ul className="navbar-nav ml-auto">
-                                    <li> <h5 className="text-light">AUTONOMOUS ROVER &nbsp;&nbsp;&nbsp;<small>(Owner Interface)</small></h5></li>
+                                    <li> <h5 className="text-light">GRAB N' GO &nbsp;&nbsp;&nbsp;<small>(Owner Interface)</small></h5></li>
                                     <li> <h5 className="text-light">{presentUser.email}</h5></li>
                                 </ul>
                             </div>
@@ -38,7 +38,6 @@ const HomePage = (presentUser) => {
             <div class="sidenav">
 
                 <Link to="/home" style={{ color: 'white', fontFamily: 'Arial', textDecoration: 'none' }}>HOME</Link><br></br>
-                <Link to="/orders" style={{ color: 'white', fontFamily: 'Arial', textDecoration: 'none' }}>ORDERS</Link><br></br>
             </div>
             <br></br>
             <div class="main">

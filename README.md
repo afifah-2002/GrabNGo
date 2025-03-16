@@ -19,3 +19,12 @@ FOR students and teachers WHO want a hassle-free way to order meals and skip lon
     <img src="/UI screens/Picture7.png" alt="Image 5" style="width: 90%; height: auto; display: block; margin-bottom: 20px;">
     <img src="/UI screens/Picture8.png" alt="Image 6" style="width: 90%; height: auto; display: block;">
 </div>
+
+
+## Software Architecture – Layered Architecture
+
+The Main Database that we’ve used for our project is MYSQL. We use the Laravel PHP framework which facilitates robust web application development with built-in tools for database and a few templates. We mainly focused on User Authentication, creating a secure payment portal, creating a user-friendly UI for ordering online, and sending email notifications to users.
+
+<div align="center">
+    <img src="/UI screens/Picture1.png" alt="Image 1" style="width: 90%; height: auto; display: block; margin-bottom: 20px;">
+</div>

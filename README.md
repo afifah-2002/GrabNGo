@@ -6,18 +6,10 @@ FOR students and teachers WHO want a hassle-free way to order meals and skip lon
 ## User Interface
 
 <div align="center">
-    <div>
-        <img src="/UI screens/Picture1.png" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-        <img src="/UI screens/Picture2.png" alt="Image 2" width="250" height="580" style="display: inline-block;">
-    </div>
-    <br>
-    <div>
-        <img src="/UI screens/Picture3.png" alt="Image 3" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-        <img src="/UI screens/Picture6.png" alt="Image 4" width="250" height="580" style="display: inline-block;">
-    </div>
-    <br>
-    <div>
-        <img src="/UI screens/Picture7.png" alt="Image 5" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-        <img src="/UI screens/Picture8.png" alt="Image 6" width="250" height="580" style="display: inline-block;">
-    </div>
+    <img src="/UI screens/Picture1.png" alt="Image 1" style="width: 90%; height: auto; display: block; margin-bottom: 20px;">
+    <img src="/UI screens/Picture2.png" alt="Image 2" style="width: 90%; height: auto; display: block; margin-bottom: 20px;">
+    <img src="/UI screens/Picture3.png" alt="Image 3" style="width: 90%; height: auto; display: block; margin-bottom: 20px;">
+    <img src="/UI screens/Picture6.png" alt="Image 4" style="width: 90%; height: auto; display: block; margin-bottom: 20px;">
+    <img src="/UI screens/Picture7.png" alt="Image 5" style="width: 90%; height: auto; display: block; margin-bottom: 20px;">
+    <img src="/UI screens/Picture8.png" alt="Image 6" style="width: 90%; height: auto; display: block;">
 </div>

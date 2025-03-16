@@ -26,5 +26,22 @@ FOR students and teachers WHO want a hassle-free way to order meals and skip lon
 The Main Database that we’ve used for our project is MYSQL. We use the Laravel PHP framework which facilitates robust web application development with built-in tools for database and a few templates. We mainly focused on User Authentication, creating a secure payment portal, creating a user-friendly UI for ordering online, and sending email notifications to users.
 
 <div align="center">
-    <img src="/UI screens/Picture1.png" alt="Image 1" style="width: 90%; height: auto; display: block; margin-bottom: 20px;">
+    <img src="/UI screens/software architecture.png" alt="Image 1" style="width: 90%; height: auto; display: block; margin-bottom: 20px;">
+</div>
+
+## Cloud Infrastructure
+
+<div align="center">
+    <img src="/UI screens/cloud.png" alt="Image 1" style="width: 90%; height: auto; display: block; margin-bottom: 20px;">
+</div>
+
+## CICD Pipeline
+###CI
+The CI Pipeline runs automatically during every pull request. The migrations and tests run, and the output indicates whether they were successful or unsuccessful.
+
+###CD
+Link your Heroku app to a GitHub repo in the Heroku dashboard under the Deploy tab, select the branch you want to deploy from (master), and enable Automatic Deploys, so each push to the branch triggers a deployment.
+These are the steps used for continuous deployment using Heruko once the code gets updated the pipeline gets triggered.
+<div align="center">
+    <img src="/UI screens/cicd.png" alt="Image 1" style="width: 90%; height: auto; display: block; margin-bottom: 20px;">
 </div>

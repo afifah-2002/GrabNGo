@@ -36,10 +36,10 @@ The Main Database that we’ve used for our project is MYSQL. We use the Laravel
 </div>
 
 ## CICD Pipeline
-###CI
+### CI
 The CI Pipeline runs automatically during every pull request. The migrations and tests run, and the output indicates whether they were successful or unsuccessful.
 
-###CD
+### CD
 Link your Heroku app to a GitHub repo in the Heroku dashboard under the Deploy tab, select the branch you want to deploy from (master), and enable Automatic Deploys, so each push to the branch triggers a deployment.
 These are the steps used for continuous deployment using Heruko once the code gets updated the pipeline gets triggered.
 <div align="center">

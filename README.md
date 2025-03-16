@@ -1,4 +1,4 @@
-# GrabNGo
+# GrabNGo 🍕🍔🍟
 ## Cafeteria Management System for UNT 
 
 ### Product Vision:

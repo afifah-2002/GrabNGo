@@ -45,3 +45,15 @@ These are the steps used for continuous deployment using Heruko once the code ge
 <div align="center">
     <img src="/UI screens/cicd.png" alt="Image 1" style="width: 90%; height: auto; display: block; margin-bottom: 20px;">
 </div>
+
+## DevOps Metrics Trends Chart:
+
+ 1. **Deployment Frequency:** A deployment rate of one deployment each week (There was a deployment of defects during the previous week), demonstrating our dedication to being agile and responsive in promptly addressing stakeholder feedback.
+ 2. **Percentage of Failed Deployments:** Of the 5 deployments within the month, none failed, leading to a failure rate of 0. This underscores the success of our testing methodologies and deployment automation, even on a smaller scale.
+3. **Lead Time from Development to Deployment:** The typical time taken from integrating code changes to their deployment on our development server is 15 minutes, demonstrating our capability to advance changes through the deployment pipeline quickly.
+4. **Change Volume:** In the last month, our team has recorded an average of 35 commits and 20 pull requests on GitHub, demonstrating steady development engagement and teamwork among members.
+5. **Mean Time to Recovery (MTTR):** In case of an incident, our team can restore service in about 17 minutes, reducing any interruptions to the project development and guaranteeing a prompt resolution of any issues.
+
+<div align="center">
+    <img src="/UI screens/devops.png" alt="Image 1" style="width: 90%; height: auto; display: block; margin-bottom: 20px;">
+</div>
